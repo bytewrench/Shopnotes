@@ -1,5 +1,18 @@
 // app.js
 
+// Replace the firebaseConfig object below with your Firebase project config
+// Get this from Firebase console -> Project settings -> SDK setup and configuration
+// Example:
+// const firebaseConfig = {
+//   apiKey: \"AIza...\",
+//   authDomain: \"your-project-id.firebaseapp.com\",
+//   projectId: \"your-project-id\",
+//   storageBucket: \"your-project-id.appspot.com\",
+//   messagingSenderId: \"1234567890\",
+//   appId: \"1:1234567890:web:abcdef\",
+//   measurementId: \"G-XXXXXXX\"
+// };
+
 // Replace with your Firebase config
 const firebaseConfig = {
     apiKey: "YOUR_API_KEY",
