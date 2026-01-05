@@ -1,0 +1,2 @@
+# Shopnotes
+Weekly devision notes
